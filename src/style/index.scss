@@ -1,0 +1,12 @@
+// Colors and fonts
+@import './custom/themeColorVariables';
+@import './custom/typography';
+
+// Header and footer
+@import './custom/header';
+@import './custom/footer';
+
+// Pages
+@import './custom/index';
+
+@import "~bootstrap/scss/bootstrap";
